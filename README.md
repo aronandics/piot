@@ -40,9 +40,9 @@ It may be useful to make your tests depend on each other. This way, the ones tha
 dependent: required1, required2
 ```
 
-Any number of requirements can be specified for one dependent, seperated by commas, and any number of dependencies can be specified, seperated by newlines.
+Any number of requirements can be specified for one dependent, separated by commas, and any number of dependencies can be specified, separated by newlines.
 
-> names of tests **without** extensions must be used
+> names of tests must be written **without** extensions
 
 ## Limitations
 
